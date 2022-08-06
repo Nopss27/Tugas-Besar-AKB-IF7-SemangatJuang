@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796706416787",
+    "project_id": "pergipergi",
+    "storage_bucket": "pergipergi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796706416787:android:471560f72f8a5805d08566",
+        "android_client_info": {
+          "package_name": "tugas.pergipergi.wisata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796706416787-7b5sb8me8fnilpos24raro9phjhfqlcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjFLgJ-D7VvDHdQ4biuCDFyuafcd7iDaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796706416787-7b5sb8me8fnilpos24raro9phjhfqlcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
